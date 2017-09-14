@@ -10,17 +10,12 @@ The default logos are an angry potato.
 
 If that is what you were hoping for, great! You have nothing to do. 
 
-But... if you would like something more subtle... consider using this minimal branding.
+But... if you would like something more subtle... consider using this minimal option. The logos are simply blank and the favicon is solid white.
 
 
-## Screenshots
+## Screenshot
 
 ![AWX Dashboard](./screenshots/awx-dashboard.jpg)
-
-![AWX Login](./screenshots/awx-login.jpg)
-
-![AWX Favicon](./screenshots/favicon-screenshot.jpg)
-
 
 ## Installing
 
@@ -37,7 +32,7 @@ For help with setting up alternate AWX branding, see the [official awx-logos rep
 
 ## Licenses
 
-While these assets don't use any AWX logos, they do use the letters 'AWX' which are "Word Marks", so you'll want to ensure you comply with the AWX [trademark guidelines](https://github.com/ansible/awx-logos/blob/master/TRADEMARKS.md).
+You'll want to ensure you comply with the AWX [trademark guidelines](https://github.com/ansible/awx-logos/blob/master/TRADEMARKS.md).
 
 The font is [Changa One](https://fonts.google.com/specimen/Changa+One) under the [Open Font License](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web). 
 
