@@ -1,11 +1,44 @@
-# awx-logos
+# Tired of being poked in the eye with an angry potato?
 
-This repo contains branding assets for the [AWX project](https://github.com/ansible/awx). You may use these assets provided you agree to, and strictly adhere to, our [trademark guidelines](./TRADEMARKS.md). 
+[AWX](https://github.com/ansible/awx) is a web application for additional functionality for Ansible.
 
-For instructions on how to incorporate these assets into the AWX build process, please view the [installation guide](https://github.com/ansible/awx/blob/devel/INSTALL.md).
+To try it out, use Jeff Geerling's [great guide](https://www.jeffgeerling.com/blog/2017/get-started-using-ansible-awx-open-source-tower-version-one-minute).
 
-## Filing issues and getting help
+The default logos are an angry potato. 
 
-If you have questions, or run into issues using the assests, please [file an issue](https://github.com/ansible/awx-logos/issues), and we will responsd as quickly as possible.
+![Angry Potato](./screenshots/angry-potato.jpg)
 
-For a more immediate response, please reach out to us on the [AWX mailing list](https://groups.google.com/forum/#!forum/awx-project), or on the `#ansible-awx` channel at irc.freenode.net.
+If that is what you were hoping for, great! You have nothing to do. 
+
+But... if you would like something more subtle... consider using this minimal branding.
+
+
+## Screenshots
+
+![AWX Dashboard](./screenshots/awx-dashboard.jpg)
+
+![AWX Login](./screenshots/awx-login.jpg)
+
+![AWX Favicon](./screenshots/favicon-screenshot.jpg)
+
+
+## Installing
+
+If you've already installed AWX, then you just need to replace these 3 files in the 'public/static/assets/' directory.
+
+- [favicon.ico](./awx/ui/client/assets/favicon.ico)
+- [logo-header.svg](./awx/ui/client/assets/logo-header.svg)
+- [logo-login.svg](./awx/ui/client/assets/logo-login.svg)
+
+For instructions on how to incorporate these assets into the AWX build process, please view the [official installation guide](https://github.com/ansible/awx/blob/devel/INSTALL.md#awx-branding).
+
+For help with setting up alternate AWX branding, see the [official awx-logos repo](https://github.com/ansible/awx-logos).
+
+
+## Licenses
+
+While these assets don't use any AWX logos, they do use the letters 'AWX' which are "Word Marks", so you'll want to ensure you comply with the AWX [trademark guidelines](https://github.com/ansible/awx-logos/blob/master/TRADEMARKS.md).
+
+The font is [Changa One](https://fonts.google.com/specimen/Changa+One) under the [Open Font License](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web). 
+
+All other contributions for this repo are under [CC0](https://en.wikipedia.org/wiki/Creative_Commons_license#Zero_.2F_public_domain), Creative Commons Zero / Public Domain.
